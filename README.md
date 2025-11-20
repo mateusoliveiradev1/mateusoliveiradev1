@@ -15,20 +15,34 @@ Minha jornada começou pela curiosidade: sempre quis entender como as coisas fun
 
 Hoje, meu foco é evoluir um pouco todos os dias, desenvolver projetos reais, dominar boas práticas e me preparar para conquistar minha primeira oportunidade como desenvolvedor.
 
+<ul>
+  <li>💻 Foco: JavaScript • TypeScript • React • React Native • Node.js</li>
+  <li>📈 Evolução diária e construção de projetos reais</li>
+  <li>🧠 Curiosidade por entender o “como funciona”</li>
+  
+</ul>
+
 <h2> 🎓 &nbsp;Aprendizado contínuo </h2>
 
 Sou extremamente dedicado ao aprendizado. Uso o Notion diariamente para organizar estudos, revisar conteúdos, acompanhar minha evolução e documentar o que aprendo. Transformei o hábito de aprender algo novo e aplicar em um projeto real em parte da minha rotina — e isso tem acelerado meu crescimento.
 
 Também gosto de compartilhar conhecimento: converso com outros devs iniciantes, organizo meu roadmap de estudos e explico conceitos para fixar ainda mais o conteúdo.
 
+<ul>
+  <li>🗂️ Organização e documentação constante no Notion</li>
+  <li>🔁 Ciclo contínuo: aprender e aplicar em projetos</li>
+  <li>🤝 Compartilhar conhecimento para reforçar o aprendizado</li>
+  
+</ul>
+
 <h2> 📚 &nbsp;O que você vai encontrar aqui </h2>
 
 Este GitHub é o espaço onde registro meu crescimento como desenvolvedor. Aqui você vai ver:
 
-- Projetos reais criados para praticar conceitos modernos
-- Aplicações com boas práticas desde o início da carreira
-- Estudos técnicos, testes, anotações e experimentos
-- Projetos focados no aprendizado diário e evolução constante
+- 🚀 Projetos reais criados para praticar conceitos modernos
+- 🧱 Aplicações com boas práticas desde o início da carreira
+- 🧪 Estudos técnicos, testes, anotações e experimentos
+- 📈 Projetos focados no aprendizado diário e evolução constante
 
 Se quiser trocar ideia, colaborar em projetos ou tiver alguma oportunidade, será um prazer conversar! Você pode me enviar um e-mail ou falar comigo pelo LinkedIn.
 
