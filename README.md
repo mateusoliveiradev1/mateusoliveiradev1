@@ -1,9 +1,9 @@
 <h1>👋 &nbsp;Hey, eu sou Mateus — desenvolvedor Full Stack em formação!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/mateus-oliveira-430659281/" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/badge/-Mateus%20Oliveira-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=warface01031999@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Mateus,%20" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/-warface01031999%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/devmateusoliveira/" title="Instagram"><img alt="Instagram" src="https://img.shields.io/badge/-%40devmateusoliveira-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.aimindset.com.br/" title="Blog"><img alt="Blog" src="https://img.shields.io/badge/-aimindset.com.br-000000?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mateus-oliveira-430659281/" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/badge/%20-Mateus%20Oliveira-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=warface01031999@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Mateus,%20" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/%20-warface01031999%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335"/></a>
+<a href="https://www.instagram.com/devmateusoliveira/" title="Instagram"><img alt="Instagram" src="https://img.shields.io/badge/%20-%40devmateusoliveira-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F"/></a>
+<a href="https://www.aimindset.com.br/" title="Blog"><img alt="Blog" src="https://img.shields.io/badge/%20-aimindset.com.br-000000?style=flat-square&logo=google-chrome&logoColor=white&labelColor=000000"/></a>
 
 </p>
 
