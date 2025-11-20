@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Hey, eu sou Mateus — desenvolvedor Full Stack em formação!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/mateus-oliveira-430659281/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:warface01031999@gmail.com"><img src="https://img.shields.io/badge/E-mail-Enviar%20mensagem-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:warface01031999@gmail.com"><img src="https://img.shields.io/badge/Gmail-Enviar%20mensagem-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/devmateusoliveira/"><img src="https://img.shields.io/badge/-Meu%20Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.aimindset.com.br/"><img src="https://img.shields.io/badge/-Meu%20Blog-000000?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 
